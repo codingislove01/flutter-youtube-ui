@@ -1,16 +1,13 @@
-# flutter_youtube_ui
+Flutter Tutorial (Only UI) - Building Youtube UI in 30 Mins
 
-A new Flutter project.
+This app was made for a quick video showing how to build UI of Youtube mobile app using Flutter. This video will help you get started with coding UIs in Flutter. This tutorial is explained in such a way that even beginners can understand clearly.
 
-## Getting Started
+You'll also understand how layout widgets work in Flutter and best practices of styling UIs and organizing the code in Flutter.
 
-This project is a starting point for a Flutter application.
+Final Output:
 
-A few resources to get you started if this is your first Flutter project:
+![](https://i.imgur.com/my3HDwO.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Flutter Tutorial](https://www.youtube.com/watch?v=VVDL10mAfWc)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CodingisLove Blog - https://codingislove.com/
